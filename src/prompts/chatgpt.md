@@ -5,6 +5,13 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de desenvolvedor .net c#, o ebookk é do nicho de programação e o subnicho é de .net c#, o título deve fazer analogia com o espaço ou o cosmos e ser curto, me liste 5 variações de títulos                                                        |
+| conteúdo |Claro! Aqui estão 5 variações de títulos para o seu ebook, fazendo analogia com o espaço ou co
+
+"C# e .NET: Explorando o Universo da Programação"
+"Além das Estrelas: Dominando .NET C#"
+"Navegando pelo Cosmos do C# e .NET"
+"Programação Intergaláctica: Desbravando o .NET C#"
+"C# no Espaço: Conquistando o Universo .NET"
+Esses cursos buscam criar uma sensação de vastidão e descoberta, associando o aprendizado do .NET C# a uma jornada |
 
